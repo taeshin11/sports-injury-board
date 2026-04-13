@@ -1,0 +1,93 @@
+{
+  "nav": {
+    "home": "Home",
+    "teams": "Teams",
+    "players": "Players",
+    "fantasy": "Fantasy",
+    "search": "Search players..."
+  },
+  "hero": {
+    "title": "NFL NBA MLB NHL Injury Report Today",
+    "subtitle": "Live injury updates across all major sports. Updated every 30 minutes.",
+    "lastUpdated": "Last updated"
+  },
+  "sport": {
+    "nfl": "NFL",
+    "nba": "NBA",
+    "mlb": "MLB",
+    "nhl": "NHL"
+  },
+  "status": {
+    "out": "Out",
+    "questionable": "Questionable",
+    "probable": "Probable",
+    "doubtful": "Doubtful",
+    "dayToDay": "Day-to-Day",
+    "ir": "IR",
+    "active": "Active",
+    "healthy": "Healthy"
+  },
+  "impact": {
+    "high": "High Impact",
+    "medium": "Medium Impact",
+    "low": "Low Impact",
+    "na": "N/A"
+  },
+  "player": {
+    "currentStatus": "Current Status",
+    "injuryHistory": "Injury History",
+    "fantasyImpact": "Fantasy Impact",
+    "expectedReturn": "Expected Return",
+    "position": "Position",
+    "team": "Team",
+    "injury": "Injury"
+  },
+  "team": {
+    "injuryReport": "Injury Report",
+    "projectedLineup": "Projected Lineup",
+    "nextGame": "Next Game",
+    "injuryTrend": "Injury Trend"
+  },
+  "filter": {
+    "team": "Team",
+    "status": "Status",
+    "position": "Position",
+    "impact": "Impact",
+    "clear": "Clear Filters",
+    "all": "All"
+  },
+  "footer": {
+    "todayVisits": "Today",
+    "totalVisits": "Total Visits",
+    "copyright": "© 2025 SportsInjuryBoard. For entertainment purposes only."
+  },
+  "common": {
+    "loading": "Loading...",
+    "noData": "No injury data available",
+    "gameToday": "Game Today",
+    "updated": "Updated",
+    "offseason": "Offseason",
+    "offseasonMessage": "Season has ended. Check back when the season starts.",
+    "viewAll": "View All",
+    "backToHome": "Back to Home",
+    "players": "players"
+  },
+  "fantasy": {
+    "title": "Fantasy Impact Summary",
+    "subtitle": "Key injury news for fantasy sports managers",
+    "mustDrop": "Must Drop",
+    "mustStart": "Must Start",
+    "streamable": "Streamable",
+    "watchList": "Watch List"
+  },
+  "table": {
+    "player": "Player",
+    "team": "Team",
+    "position": "Position",
+    "injury": "Injury",
+    "status": "Status",
+    "return": "Est. Return",
+    "impact": "Fantasy Impact",
+    "updated": "Updated"
+  }
+}

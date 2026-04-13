@@ -1,0 +1,14 @@
+{
+  "nav": { "home": "Início", "teams": "Times", "players": "Jogadores", "fantasy": "Fantasy", "search": "Buscar jogadores..." },
+  "hero": { "title": "Relatório de Lesões NFL NBA MLB NHL Hoje", "subtitle": "Atualizações ao vivo de lesões em todos os esportes principais. Atualizado a cada 30 minutos.", "lastUpdated": "Última atualização" },
+  "sport": { "nfl": "NFL", "nba": "NBA", "mlb": "MLB", "nhl": "NHL" },
+  "status": { "out": "Fora", "questionable": "Duvidoso", "probable": "Provável", "doubtful": "Muito duvidoso", "dayToDay": "Dia a dia", "ir": "Lista de lesionados", "active": "Ativo", "healthy": "Saudável" },
+  "impact": { "high": "Alto impacto", "medium": "Impacto médio", "low": "Baixo impacto", "na": "N/A" },
+  "player": { "currentStatus": "Status atual", "injuryHistory": "Histórico de lesões", "fantasyImpact": "Impacto no fantasy", "expectedReturn": "Retorno esperado", "position": "Posição", "team": "Time", "injury": "Lesão" },
+  "team": { "injuryReport": "Relatório de lesões", "projectedLineup": "Escalação projetada", "nextGame": "Próximo jogo", "injuryTrend": "Tendência de lesões" },
+  "filter": { "team": "Time", "status": "Status", "position": "Posição", "impact": "Impacto", "clear": "Limpar filtros", "all": "Todos" },
+  "footer": { "todayVisits": "Hoje", "totalVisits": "Total de visitas", "copyright": "© 2025 SportsInjuryBoard. Apenas para fins de entretenimento." },
+  "common": { "loading": "Carregando...", "noData": "Sem dados de lesões", "gameToday": "Jogo hoje", "updated": "Atualizado", "offseason": "Entressafra", "offseasonMessage": "A temporada terminou.", "viewAll": "Ver tudo", "backToHome": "Voltar ao início", "players": "jogadores" },
+  "fantasy": { "title": "Resumo de impacto no fantasy", "subtitle": "Principais notícias de lesões para gerentes de fantasy sports", "mustDrop": "Deve dispensar", "mustStart": "Deve escalar", "streamable": "Streamável", "watchList": "Lista de observação" },
+  "table": { "player": "Jogador", "team": "Time", "position": "Posição", "injury": "Lesão", "status": "Status", "return": "Retorno est.", "impact": "Impacto fantasy", "updated": "Atualizado" }
+}

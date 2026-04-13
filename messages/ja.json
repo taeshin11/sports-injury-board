@@ -1,0 +1,14 @@
+{
+  "nav": { "home": "ホーム", "teams": "チーム", "players": "選手", "fantasy": "ファンタジー", "search": "選手を検索..." },
+  "hero": { "title": "NFL NBA MLB NHL 負傷レポート", "subtitle": "全主要スポーツのリアルタイム負傷情報。30分ごとに更新。", "lastUpdated": "最終更新" },
+  "sport": { "nfl": "NFL", "nba": "NBA", "mlb": "MLB", "nhl": "NHL" },
+  "status": { "out": "欠場", "questionable": "出場疑問", "probable": "出場予定", "doubtful": "出場困難", "dayToDay": "日々観察", "ir": "故障者リスト", "active": "アクティブ", "healthy": "健康" },
+  "impact": { "high": "高インパクト", "medium": "中インパクト", "low": "低インパクト", "na": "N/A" },
+  "player": { "currentStatus": "現在の状態", "injuryHistory": "負傷履歴", "fantasyImpact": "ファンタジーインパクト", "expectedReturn": "復帰予定日", "position": "ポジション", "team": "チーム", "injury": "負傷" },
+  "team": { "injuryReport": "負傷レポート", "projectedLineup": "予想ラインアップ", "nextGame": "次の試合", "injuryTrend": "負傷傾向" },
+  "filter": { "team": "チーム", "status": "状態", "position": "ポジション", "impact": "インパクト", "clear": "フィルタークリア", "all": "全て" },
+  "footer": { "todayVisits": "今日", "totalVisits": "総訪問数", "copyright": "© 2025 SportsInjuryBoard. エンターテインメント目的のみ。" },
+  "common": { "loading": "読み込み中...", "noData": "負傷データなし", "gameToday": "今日の試合", "updated": "更新済み", "offseason": "オフシーズン", "offseasonMessage": "シーズンが終了しました。", "viewAll": "全て見る", "backToHome": "ホームへ", "players": "選手" },
+  "fantasy": { "title": "ファンタジーインパクト概要", "subtitle": "ファンタジースポーツマネージャーのための主要負傷情報", "mustDrop": "ドロップ必須", "mustStart": "スタート必須", "streamable": "ストリーマブル", "watchList": "ウォッチリスト" },
+  "table": { "player": "選手", "team": "チーム", "position": "ポジション", "injury": "負傷", "status": "状態", "return": "復帰予定", "impact": "ファンタジーインパクト", "updated": "更新" }
+}

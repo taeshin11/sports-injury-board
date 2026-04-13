@@ -1,0 +1,14 @@
+{
+  "nav": { "home": "首页", "teams": "球队", "players": "球员", "fantasy": "梦幻", "search": "搜索球员..." },
+  "hero": { "title": "NFL NBA MLB NHL 伤病报告", "subtitle": "所有主要运动的实时伤病更新。每30分钟更新。", "lastUpdated": "最后更新" },
+  "sport": { "nfl": "NFL", "nba": "NBA", "mlb": "MLB", "nhl": "NHL" },
+  "status": { "out": "缺阵", "questionable": "出场存疑", "probable": "大概率出场", "doubtful": "出场存疑", "dayToDay": "逐日观察", "ir": "伤病名单", "active": "正常", "healthy": "健康" },
+  "impact": { "high": "高影响", "medium": "中等影响", "low": "低影响", "na": "不适用" },
+  "player": { "currentStatus": "当前状态", "injuryHistory": "伤病历史", "fantasyImpact": "梦幻影响", "expectedReturn": "预计回归日期", "position": "位置", "team": "球队", "injury": "伤病" },
+  "team": { "injuryReport": "伤病报告", "projectedLineup": "预计阵容", "nextGame": "下场比赛", "injuryTrend": "伤病趋势" },
+  "filter": { "team": "球队", "status": "状态", "position": "位置", "impact": "影响", "clear": "清除筛选", "all": "全部" },
+  "footer": { "todayVisits": "今日", "totalVisits": "总访问量", "copyright": "© 2025 SportsInjuryBoard. 仅供娱乐目的。" },
+  "common": { "loading": "加载中...", "noData": "无伤病数据", "gameToday": "今日比赛", "updated": "已更新", "offseason": "休赛期", "offseasonMessage": "赛季已结束。", "viewAll": "查看全部", "backToHome": "返回首页", "players": "球员" },
+  "fantasy": { "title": "梦幻影响摘要", "subtitle": "为梦幻体育经理提供的关键伤病新闻", "mustDrop": "必须放弃", "mustStart": "必须首发", "streamable": "可流通", "watchList": "观察名单" },
+  "table": { "player": "球员", "team": "球队", "position": "位置", "injury": "伤病", "status": "状态", "return": "预计回归", "impact": "梦幻影响", "updated": "更新" }
+}

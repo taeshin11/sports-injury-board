@@ -1,0 +1,38 @@
+[
+  {
+    "id": "nfl",
+    "name": "NFL",
+    "fullName": "National Football League",
+    "sport": "Football",
+    "season": { "start": "09-01", "end": "02-28" },
+    "color": "#0B6623",
+    "icon": "🏈"
+  },
+  {
+    "id": "nba",
+    "name": "NBA",
+    "fullName": "National Basketball Association",
+    "sport": "Basketball",
+    "season": { "start": "10-01", "end": "06-30" },
+    "color": "#C9082A",
+    "icon": "🏀"
+  },
+  {
+    "id": "mlb",
+    "name": "MLB",
+    "fullName": "Major League Baseball",
+    "sport": "Baseball",
+    "season": { "start": "03-01", "end": "10-31" },
+    "color": "#002D72",
+    "icon": "⚾"
+  },
+  {
+    "id": "nhl",
+    "name": "NHL",
+    "fullName": "National Hockey League",
+    "sport": "Hockey",
+    "season": { "start": "10-01", "end": "06-30" },
+    "color": "#00539B",
+    "icon": "🏒"
+  }
+]

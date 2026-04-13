@@ -1,0 +1,50 @@
+{
+  "NFL": [
+    { "id": "nfl-kc", "name": "Kansas City Chiefs", "slug": "kansas-city-chiefs", "sport": "NFL", "city": "Kansas City", "abbreviation": "KC" },
+    { "id": "nfl-buf", "name": "Buffalo Bills", "slug": "buffalo-bills", "sport": "NFL", "city": "Buffalo", "abbreviation": "BUF" },
+    { "id": "nfl-bal", "name": "Baltimore Ravens", "slug": "baltimore-ravens", "sport": "NFL", "city": "Baltimore", "abbreviation": "BAL" },
+    { "id": "nfl-phi", "name": "Philadelphia Eagles", "slug": "philadelphia-eagles", "sport": "NFL", "city": "Philadelphia", "abbreviation": "PHI" },
+    { "id": "nfl-dal", "name": "Dallas Cowboys", "slug": "dallas-cowboys", "sport": "NFL", "city": "Dallas", "abbreviation": "DAL" },
+    { "id": "nfl-sf", "name": "San Francisco 49ers", "slug": "san-francisco-49ers", "sport": "NFL", "city": "San Francisco", "abbreviation": "SF" },
+    { "id": "nfl-mia", "name": "Miami Dolphins", "slug": "miami-dolphins", "sport": "NFL", "city": "Miami", "abbreviation": "MIA" },
+    { "id": "nfl-min", "name": "Minnesota Vikings", "slug": "minnesota-vikings", "sport": "NFL", "city": "Minnesota", "abbreviation": "MIN" },
+    { "id": "nfl-det", "name": "Detroit Lions", "slug": "detroit-lions", "sport": "NFL", "city": "Detroit", "abbreviation": "DET" },
+    { "id": "nfl-hou", "name": "Houston Texans", "slug": "houston-texans", "sport": "NFL", "city": "Houston", "abbreviation": "HOU" }
+  ],
+  "NBA": [
+    { "id": "nba-phi", "name": "Philadelphia 76ers", "slug": "philadelphia-76ers", "sport": "NBA", "city": "Philadelphia", "abbreviation": "PHI" },
+    { "id": "nba-lal", "name": "Los Angeles Lakers", "slug": "los-angeles-lakers", "sport": "NBA", "city": "Los Angeles", "abbreviation": "LAL" },
+    { "id": "nba-mil", "name": "Milwaukee Bucks", "slug": "milwaukee-bucks", "sport": "NBA", "city": "Milwaukee", "abbreviation": "MIL" },
+    { "id": "nba-phx", "name": "Phoenix Suns", "slug": "phoenix-suns", "sport": "NBA", "city": "Phoenix", "abbreviation": "PHX" },
+    { "id": "nba-gsw", "name": "Golden State Warriors", "slug": "golden-state-warriors", "sport": "NBA", "city": "Golden State", "abbreviation": "GSW" },
+    { "id": "nba-den", "name": "Denver Nuggets", "slug": "denver-nuggets", "sport": "NBA", "city": "Denver", "abbreviation": "DEN" },
+    { "id": "nba-bos", "name": "Boston Celtics", "slug": "boston-celtics", "sport": "NBA", "city": "Boston", "abbreviation": "BOS" },
+    { "id": "nba-mem", "name": "Memphis Grizzlies", "slug": "memphis-grizzlies", "sport": "NBA", "city": "Memphis", "abbreviation": "MEM" },
+    { "id": "nba-nop", "name": "New Orleans Pelicans", "slug": "new-orleans-pelicans", "sport": "NBA", "city": "New Orleans", "abbreviation": "NOP" },
+    { "id": "nba-cle", "name": "Cleveland Cavaliers", "slug": "cleveland-cavaliers", "sport": "NBA", "city": "Cleveland", "abbreviation": "CLE" }
+  ],
+  "MLB": [
+    { "id": "mlb-lad", "name": "Los Angeles Dodgers", "slug": "los-angeles-dodgers", "sport": "MLB", "city": "Los Angeles", "abbreviation": "LAD" },
+    { "id": "mlb-nyy", "name": "New York Yankees", "slug": "new-york-yankees", "sport": "MLB", "city": "New York", "abbreviation": "NYY" },
+    { "id": "mlb-nym", "name": "New York Mets", "slug": "new-york-mets", "sport": "MLB", "city": "New York", "abbreviation": "NYM" },
+    { "id": "mlb-atl", "name": "Atlanta Braves", "slug": "atlanta-braves", "sport": "MLB", "city": "Atlanta", "abbreviation": "ATL" },
+    { "id": "mlb-tor", "name": "Toronto Blue Jays", "slug": "toronto-blue-jays", "sport": "MLB", "city": "Toronto", "abbreviation": "TOR" },
+    { "id": "mlb-sea", "name": "Seattle Mariners", "slug": "seattle-mariners", "sport": "MLB", "city": "Seattle", "abbreviation": "SEA" },
+    { "id": "mlb-ari", "name": "Arizona Diamondbacks", "slug": "arizona-diamondbacks", "sport": "MLB", "city": "Arizona", "abbreviation": "ARI" },
+    { "id": "mlb-pit", "name": "Pittsburgh Pirates", "slug": "pittsburgh-pirates", "sport": "MLB", "city": "Pittsburgh", "abbreviation": "PIT" },
+    { "id": "mlb-phi", "name": "Philadelphia Phillies", "slug": "philadelphia-phillies", "sport": "MLB", "city": "Philadelphia", "abbreviation": "PHI" },
+    { "id": "mlb-bal", "name": "Baltimore Orioles", "slug": "baltimore-orioles", "sport": "MLB", "city": "Baltimore", "abbreviation": "BAL" }
+  ],
+  "NHL": [
+    { "id": "nhl-edm", "name": "Edmonton Oilers", "slug": "edmonton-oilers", "sport": "NHL", "city": "Edmonton", "abbreviation": "EDM" },
+    { "id": "nhl-col", "name": "Colorado Avalanche", "slug": "colorado-avalanche", "sport": "NHL", "city": "Colorado", "abbreviation": "COL" },
+    { "id": "nhl-bos", "name": "Boston Bruins", "slug": "boston-bruins", "sport": "NHL", "city": "Boston", "abbreviation": "BOS" },
+    { "id": "nhl-tor", "name": "Toronto Maple Leafs", "slug": "toronto-maple-leafs", "sport": "NHL", "city": "Toronto", "abbreviation": "TOR" },
+    { "id": "nhl-nyr", "name": "New York Rangers", "slug": "new-york-rangers", "sport": "NHL", "city": "New York", "abbreviation": "NYR" },
+    { "id": "nhl-car", "name": "Carolina Hurricanes", "slug": "carolina-hurricanes", "sport": "NHL", "city": "Carolina", "abbreviation": "CAR" },
+    { "id": "nhl-fla", "name": "Florida Panthers", "slug": "florida-panthers", "sport": "NHL", "city": "Florida", "abbreviation": "FLA" },
+    { "id": "nhl-pit", "name": "Pittsburgh Penguins", "slug": "pittsburgh-penguins", "sport": "NHL", "city": "Pittsburgh", "abbreviation": "PIT" },
+    { "id": "nhl-wsh", "name": "Washington Capitals", "slug": "washington-capitals", "sport": "NHL", "city": "Washington", "abbreviation": "WSH" },
+    { "id": "nhl-van", "name": "Vancouver Canucks", "slug": "vancouver-canucks", "sport": "NHL", "city": "Vancouver", "abbreviation": "VAN" }
+  ]
+}

@@ -1,0 +1,14 @@
+{
+  "nav": { "home": "Accueil", "teams": "Équipes", "players": "Joueurs", "fantasy": "Fantasy", "search": "Rechercher des joueurs..." },
+  "hero": { "title": "Rapport de blessures NFL NBA MLB NHL aujourd'hui", "subtitle": "Mises à jour des blessures en direct dans tous les sports majeurs. Mis à jour toutes les 30 minutes.", "lastUpdated": "Dernière mise à jour" },
+  "sport": { "nfl": "NFL", "nba": "NBA", "mlb": "MLB", "nhl": "NHL" },
+  "status": { "out": "Absent", "questionable": "Incertain", "probable": "Probable", "doubtful": "Très incertain", "dayToDay": "Jour par jour", "ir": "Liste des blessés", "active": "Actif", "healthy": "En bonne santé" },
+  "impact": { "high": "Impact élevé", "medium": "Impact moyen", "low": "Faible impact", "na": "N/A" },
+  "player": { "currentStatus": "Statut actuel", "injuryHistory": "Historique des blessures", "fantasyImpact": "Impact fantasy", "expectedReturn": "Retour prévu", "position": "Position", "team": "Équipe", "injury": "Blessure" },
+  "team": { "injuryReport": "Rapport de blessures", "projectedLineup": "Composition prévue", "nextGame": "Prochain match", "injuryTrend": "Tendance des blessures" },
+  "filter": { "team": "Équipe", "status": "Statut", "position": "Position", "impact": "Impact", "clear": "Effacer les filtres", "all": "Tous" },
+  "footer": { "todayVisits": "Aujourd'hui", "totalVisits": "Visites totales", "copyright": "© 2025 SportsInjuryBoard. À des fins de divertissement uniquement." },
+  "common": { "loading": "Chargement...", "noData": "Aucune donnée de blessure", "gameToday": "Match aujourd'hui", "updated": "Mis à jour", "offseason": "Hors-saison", "offseasonMessage": "La saison est terminée.", "viewAll": "Voir tout", "backToHome": "Retour à l'accueil", "players": "joueurs" },
+  "fantasy": { "title": "Résumé d'impact fantasy", "subtitle": "Nouvelles clés sur les blessures pour les managers de fantasy sports", "mustDrop": "À libérer", "mustStart": "À titulariser", "streamable": "Streamable", "watchList": "Liste de surveillance" },
+  "table": { "player": "Joueur", "team": "Équipe", "position": "Position", "injury": "Blessure", "status": "Statut", "return": "Retour est.", "impact": "Impact fantasy", "updated": "Mis à jour" }
+}

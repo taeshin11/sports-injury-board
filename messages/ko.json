@@ -1,0 +1,93 @@
+{
+  "nav": {
+    "home": "홈",
+    "teams": "팀",
+    "players": "선수",
+    "fantasy": "판타지",
+    "search": "선수 검색..."
+  },
+  "hero": {
+    "title": "NFL NBA MLB NHL 부상 리포트",
+    "subtitle": "모든 주요 스포츠의 실시간 부상 업데이트. 30분마다 업데이트.",
+    "lastUpdated": "마지막 업데이트"
+  },
+  "sport": {
+    "nfl": "NFL",
+    "nba": "NBA",
+    "mlb": "MLB",
+    "nhl": "NHL"
+  },
+  "status": {
+    "out": "결장",
+    "questionable": "출전 불투명",
+    "probable": "출전 가능",
+    "doubtful": "출전 의심",
+    "dayToDay": "일별 관찰",
+    "ir": "부상자 명단",
+    "active": "활성",
+    "healthy": "건강"
+  },
+  "impact": {
+    "high": "높은 영향",
+    "medium": "중간 영향",
+    "low": "낮은 영향",
+    "na": "해당 없음"
+  },
+  "player": {
+    "currentStatus": "현재 상태",
+    "injuryHistory": "부상 이력",
+    "fantasyImpact": "판타지 영향",
+    "expectedReturn": "복귀 예상일",
+    "position": "포지션",
+    "team": "팀",
+    "injury": "부상"
+  },
+  "team": {
+    "injuryReport": "부상 리포트",
+    "projectedLineup": "예상 라인업",
+    "nextGame": "다음 경기",
+    "injuryTrend": "부상 추세"
+  },
+  "filter": {
+    "team": "팀",
+    "status": "상태",
+    "position": "포지션",
+    "impact": "영향",
+    "clear": "필터 초기화",
+    "all": "전체"
+  },
+  "footer": {
+    "todayVisits": "오늘",
+    "totalVisits": "총 방문",
+    "copyright": "© 2025 SportsInjuryBoard. 엔터테인먼트 목적으로만 사용하세요."
+  },
+  "common": {
+    "loading": "로딩 중...",
+    "noData": "부상 데이터 없음",
+    "gameToday": "오늘 경기",
+    "updated": "업데이트됨",
+    "offseason": "오프시즌",
+    "offseasonMessage": "시즌이 끝났습니다. 시즌이 시작되면 다시 확인하세요.",
+    "viewAll": "전체 보기",
+    "backToHome": "홈으로",
+    "players": "선수"
+  },
+  "fantasy": {
+    "title": "판타지 영향 요약",
+    "subtitle": "판타지 스포츠 매니저를 위한 주요 부상 소식",
+    "mustDrop": "드롭 필수",
+    "mustStart": "선발 필수",
+    "streamable": "스트리머블",
+    "watchList": "관찰 목록"
+  },
+  "table": {
+    "player": "선수",
+    "team": "팀",
+    "position": "포지션",
+    "injury": "부상",
+    "status": "상태",
+    "return": "복귀 예상",
+    "impact": "판타지 영향",
+    "updated": "업데이트"
+  }
+}

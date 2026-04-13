@@ -1,0 +1,14 @@
+{
+  "nav": { "home": "Startseite", "teams": "Teams", "players": "Spieler", "fantasy": "Fantasy", "search": "Spieler suchen..." },
+  "hero": { "title": "NFL NBA MLB NHL Verletzungsbericht heute", "subtitle": "Live-Verletzungsupdates in allen großen Sportarten. Alle 30 Minuten aktualisiert.", "lastUpdated": "Zuletzt aktualisiert" },
+  "sport": { "nfl": "NFL", "nba": "NBA", "mlb": "MLB", "nhl": "NHL" },
+  "status": { "out": "Fehlt", "questionable": "Fraglich", "probable": "Wahrscheinlich", "doubtful": "Zweifelhaft", "dayToDay": "Tag für Tag", "ir": "Verletztenliste", "active": "Aktiv", "healthy": "Gesund" },
+  "impact": { "high": "Hohe Auswirkung", "medium": "Mittlere Auswirkung", "low": "Geringe Auswirkung", "na": "N/A" },
+  "player": { "currentStatus": "Aktueller Status", "injuryHistory": "Verletzungshistorie", "fantasyImpact": "Fantasy-Auswirkung", "expectedReturn": "Erwartete Rückkehr", "position": "Position", "team": "Team", "injury": "Verletzung" },
+  "team": { "injuryReport": "Verletzungsbericht", "projectedLineup": "Voraussichtliche Aufstellung", "nextGame": "Nächstes Spiel", "injuryTrend": "Verletzungstrend" },
+  "filter": { "team": "Team", "status": "Status", "position": "Position", "impact": "Auswirkung", "clear": "Filter löschen", "all": "Alle" },
+  "footer": { "todayVisits": "Heute", "totalVisits": "Gesamtbesuche", "copyright": "© 2025 SportsInjuryBoard. Nur zu Unterhaltungszwecken." },
+  "common": { "loading": "Laden...", "noData": "Keine Verletzungsdaten", "gameToday": "Spiel heute", "updated": "Aktualisiert", "offseason": "Nebensaison", "offseasonMessage": "Die Saison ist beendet.", "viewAll": "Alle anzeigen", "backToHome": "Zurück zur Startseite", "players": "Spieler" },
+  "fantasy": { "title": "Fantasy-Auswirkungszusammenfassung", "subtitle": "Wichtige Verletzungsnachrichten für Fantasy-Sport-Manager", "mustDrop": "Muss fallen lassen", "mustStart": "Muss starten", "streamable": "Streambar", "watchList": "Beobachtungsliste" },
+  "table": { "player": "Spieler", "team": "Team", "position": "Position", "injury": "Verletzung", "status": "Status", "return": "Erwartete Rückkehr", "impact": "Fantasy-Auswirkung", "updated": "Aktualisiert" }
+}
