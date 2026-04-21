@@ -6,6 +6,9 @@ import PlayerCard from '@/components/PlayerCard';
 import { Activity, TrendingDown, AlertTriangle, CheckCircle } from 'lucide-react';
 import type { Metadata } from 'next';
 
+import { AdsterraNativeBanner } from '@/components/ads/AdsterraNativeBanner';
+import { AdsterraDisplay } from '@/components/ads/AdsterraDisplay';
+
 export const revalidate = 1800;
 
 export async function generateMetadata(): Promise<Metadata> {
@@ -136,6 +139,8 @@ export default async function HomePage({
           </div>
         </div>
       </section>
+      <AdsterraNativeBanner />
+      <AdsterraDisplay />
 
       {/* Sport tabs */}
       <SportTabs activeSport="all" locale={locale} />

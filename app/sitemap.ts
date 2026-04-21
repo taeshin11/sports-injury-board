@@ -42,6 +42,20 @@ export default function sitemap(): MetadataRoute.Sitemap {
     });
   }
 
+  // Content pages
+  const contentPages = ['about', 'how-to-use', 'privacy', 'terms'];
+  for (const page of contentPages) {
+    for (const locale of LOCALES) {
+      const localePath = locale === 'en' ? '' : `/${locale}`;
+      urls.push({
+        url: `${BASE_URL}${localePath}/${page}`,
+        lastModified: new Date(),
+        changeFrequency: 'monthly',
+        priority: 0.5,
+      });
+    }
+  }
+
   // Player pages
   for (const player of allInjuries) {
     urls.push({

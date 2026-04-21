@@ -2,6 +2,9 @@ import type { Metadata } from "next";
 import "./globals.css";
 
 export const metadata: Metadata = {
+  verification: {
+    google: "WddgcbVJsL2BGHNAje5m6DK56IcR0Mw5UOqozI2Xtrc",
+  },
   title: "SportsInjuryBoard — NFL NBA MLB NHL Injury Reports",
   description: "Live injury reports across NFL, NBA, MLB, and NHL. Updated every 30 minutes.",
 };

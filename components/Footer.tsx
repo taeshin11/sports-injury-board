@@ -7,7 +7,7 @@ export default function Footer() {
   return (
     <footer className="bg-[#1c0010] text-white mt-16">
       <div className="max-w-7xl mx-auto px-4 sm:px-6 lg:px-8 py-10">
-        <div className="grid grid-cols-1 md:grid-cols-3 gap-8">
+        <div className="grid grid-cols-1 md:grid-cols-4 gap-8">
           {/* Brand */}
           <div>
             <div className="flex items-center gap-2 mb-3">
@@ -31,6 +31,17 @@ export default function Footer() {
             </ul>
           </div>
 
+          {/* Info links */}
+          <div>
+            <h3 className="text-sm font-semibold mb-3 text-gray-300">Info</h3>
+            <ul className="space-y-1 text-sm text-gray-400">
+              <li><a href="/about" className="hover:text-white transition-colors">About Us</a></li>
+              <li><a href="/how-to-use" className="hover:text-white transition-colors">How to Use / FAQ</a></li>
+              <li><a href="/privacy" className="hover:text-white transition-colors">Privacy Policy</a></li>
+              <li><a href="/terms" className="hover:text-white transition-colors">Terms of Use</a></li>
+            </ul>
+          </div>
+
           {/* Visitor counter */}
           <div className="text-right">
             <div id="visitor-counter" className="text-xs text-gray-400 space-y-1">
@@ -40,8 +51,19 @@ export default function Footer() {
           </div>
         </div>
 
-        <div className="border-t border-gray-800 mt-8 pt-6 text-center text-xs text-gray-500">
-          {t('copyright')}
+        <div className="border-t border-gray-800 mt-8 pt-6 text-center text-xs text-gray-500 space-y-1">
+          <p>{t('copyright')}</p>
+          <p>
+            Built by{' '}
+            <a
+              href="http://spinai.net/"
+              target="_blank"
+              rel="noopener noreferrer"
+              className="text-gray-400 hover:text-white transition-colors hover:underline underline-offset-2"
+            >
+              SPINAI
+            </a>
+          </p>
         </div>
       </div>
     </footer>
