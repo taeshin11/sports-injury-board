@@ -9,9 +9,9 @@
     "position": "QB",
     "injury": "Ankle",
     "status": "Probable",
-    "returnDate": "2025-01-15",
+    "returnDate": null,
     "fantasyImpact": "High",
-    "lastUpdated": "2025-01-13T10:00:00Z"
+    "lastUpdated": "2026-01-13T10:00:00Z"
   },
   {
     "id": "nfl-2",
@@ -25,7 +25,7 @@
     "status": "Healthy",
     "returnDate": null,
     "fantasyImpact": "Low",
-    "lastUpdated": "2025-01-13T10:00:00Z"
+    "lastUpdated": "2026-01-13T10:00:00Z"
   },
   {
     "id": "nfl-3",
@@ -39,7 +39,7 @@
     "status": "Healthy",
     "returnDate": null,
     "fantasyImpact": "Low",
-    "lastUpdated": "2025-01-13T10:00:00Z"
+    "lastUpdated": "2026-01-13T10:00:00Z"
   },
   {
     "id": "nfl-4",
@@ -49,11 +49,11 @@
     "teamSlug": "philadelphia-eagles",
     "sport": "NFL",
     "position": "QB",
-    "injury": "Shoulder",
-    "status": "Questionable",
+    "injury": "None",
+    "status": "Healthy",
     "returnDate": null,
     "fantasyImpact": "High",
-    "lastUpdated": "2025-01-13T10:00:00Z"
+    "lastUpdated": "2026-01-13T10:00:00Z"
   },
   {
     "id": "nfl-5",
@@ -65,9 +65,9 @@
     "position": "QB",
     "injury": "Hamstring",
     "status": "Out",
-    "returnDate": "2025-02-01",
+    "returnDate": null,
     "fantasyImpact": "High",
-    "lastUpdated": "2025-01-13T10:00:00Z"
+    "lastUpdated": "2026-01-13T10:00:00Z"
   },
   {
     "id": "nfl-6",
@@ -79,9 +79,9 @@
     "position": "RB",
     "injury": "Achilles",
     "status": "Out",
-    "returnDate": "2025-09-01",
+    "returnDate": "2026-09-01",
     "fantasyImpact": "High",
-    "lastUpdated": "2025-01-13T10:00:00Z"
+    "lastUpdated": "2026-01-13T10:00:00Z"
   },
   {
     "id": "nfl-7",
@@ -95,7 +95,7 @@
     "status": "Healthy",
     "returnDate": null,
     "fantasyImpact": "Low",
-    "lastUpdated": "2025-01-13T10:00:00Z"
+    "lastUpdated": "2026-01-13T10:00:00Z"
   },
   {
     "id": "nfl-8",
@@ -109,7 +109,7 @@
     "status": "Day-to-Day",
     "returnDate": null,
     "fantasyImpact": "High",
-    "lastUpdated": "2025-01-13T10:00:00Z"
+    "lastUpdated": "2026-01-13T10:00:00Z"
   },
   {
     "id": "nfl-9",
@@ -119,11 +119,11 @@
     "teamSlug": "miami-dolphins",
     "sport": "NFL",
     "position": "WR",
-    "injury": "Ankle",
-    "status": "Questionable",
+    "injury": "None",
+    "status": "Healthy",
     "returnDate": null,
     "fantasyImpact": "High",
-    "lastUpdated": "2025-01-13T10:00:00Z"
+    "lastUpdated": "2026-01-13T10:00:00Z"
   },
   {
     "id": "nfl-10",
@@ -137,7 +137,7 @@
     "status": "Healthy",
     "returnDate": null,
     "fantasyImpact": "Low",
-    "lastUpdated": "2025-01-13T10:00:00Z"
+    "lastUpdated": "2026-01-13T10:00:00Z"
   },
   {
     "id": "nfl-11",
@@ -151,7 +151,7 @@
     "status": "Probable",
     "returnDate": null,
     "fantasyImpact": "Medium",
-    "lastUpdated": "2025-01-13T10:00:00Z"
+    "lastUpdated": "2026-01-13T10:00:00Z"
   },
   {
     "id": "nfl-12",
@@ -163,9 +163,9 @@
     "position": "WR",
     "injury": "ACL",
     "status": "Out",
-    "returnDate": "2025-09-01",
+    "returnDate": "2026-09-01",
     "fantasyImpact": "High",
-    "lastUpdated": "2025-01-13T10:00:00Z"
+    "lastUpdated": "2026-01-13T10:00:00Z"
   },
   {
     "id": "nfl-13",
@@ -179,7 +179,7 @@
     "status": "Day-to-Day",
     "returnDate": null,
     "fantasyImpact": "High",
-    "lastUpdated": "2025-01-13T10:00:00Z"
+    "lastUpdated": "2026-01-13T10:00:00Z"
   },
   {
     "id": "nfl-14",
@@ -193,7 +193,7 @@
     "status": "Healthy",
     "returnDate": null,
     "fantasyImpact": "Low",
-    "lastUpdated": "2025-01-13T10:00:00Z"
+    "lastUpdated": "2026-01-13T10:00:00Z"
   },
   {
     "id": "nfl-15",
@@ -203,11 +203,11 @@
     "teamSlug": "dallas-cowboys",
     "sport": "NFL",
     "position": "LB",
-    "injury": "Ankle",
-    "status": "Questionable",
+    "injury": "None",
+    "status": "Healthy",
     "returnDate": null,
     "fantasyImpact": "Low",
-    "lastUpdated": "2025-01-13T10:00:00Z"
+    "lastUpdated": "2026-01-13T10:00:00Z"
   },
   {
     "id": "nfl-16",
@@ -219,9 +219,9 @@
     "position": "QB",
     "injury": "Concussion",
     "status": "Out",
-    "returnDate": "2025-01-20",
+    "returnDate": null,
     "fantasyImpact": "High",
-    "lastUpdated": "2025-01-13T10:00:00Z"
+    "lastUpdated": "2026-01-13T10:00:00Z"
   },
   {
     "id": "nfl-17",
@@ -235,7 +235,7 @@
     "status": "Probable",
     "returnDate": null,
     "fantasyImpact": "Low",
-    "lastUpdated": "2025-01-13T10:00:00Z"
+    "lastUpdated": "2026-01-13T10:00:00Z"
   },
   {
     "id": "nfl-18",
@@ -249,7 +249,7 @@
     "status": "Day-to-Day",
     "returnDate": null,
     "fantasyImpact": "Medium",
-    "lastUpdated": "2025-01-13T10:00:00Z"
+    "lastUpdated": "2026-01-13T10:00:00Z"
   },
   {
     "id": "nfl-19",
@@ -263,7 +263,7 @@
     "status": "Healthy",
     "returnDate": null,
     "fantasyImpact": "Low",
-    "lastUpdated": "2025-01-13T10:00:00Z"
+    "lastUpdated": "2026-01-13T10:00:00Z"
   },
   {
     "id": "nfl-20",
@@ -277,7 +277,7 @@
     "status": "Probable",
     "returnDate": null,
     "fantasyImpact": "Medium",
-    "lastUpdated": "2025-01-13T10:00:00Z"
+    "lastUpdated": "2026-01-13T10:00:00Z"
   },
   {
     "id": "nba-1",
@@ -289,9 +289,9 @@
     "position": "C",
     "injury": "Knee",
     "status": "Out",
-    "returnDate": "2025-02-15",
+    "returnDate": "2026-02-15",
     "fantasyImpact": "High",
-    "lastUpdated": "2025-01-13T10:00:00Z"
+    "lastUpdated": "2026-01-13T10:00:00Z"
   },
   {
     "id": "nba-2",
@@ -305,7 +305,7 @@
     "status": "Healthy",
     "returnDate": null,
     "fantasyImpact": "Low",
-    "lastUpdated": "2025-01-13T10:00:00Z"
+    "lastUpdated": "2026-01-13T10:00:00Z"
   },
   {
     "id": "nba-3",
@@ -319,7 +319,7 @@
     "status": "Healthy",
     "returnDate": null,
     "fantasyImpact": "Low",
-    "lastUpdated": "2025-01-13T10:00:00Z"
+    "lastUpdated": "2026-01-13T10:00:00Z"
   },
   {
     "id": "nba-4",
@@ -333,7 +333,7 @@
     "status": "Questionable",
     "returnDate": null,
     "fantasyImpact": "High",
-    "lastUpdated": "2025-01-13T10:00:00Z"
+    "lastUpdated": "2026-01-13T10:00:00Z"
   },
   {
     "id": "nba-5",
@@ -347,7 +347,7 @@
     "status": "Day-to-Day",
     "returnDate": null,
     "fantasyImpact": "High",
-    "lastUpdated": "2025-01-13T10:00:00Z"
+    "lastUpdated": "2026-01-13T10:00:00Z"
   },
   {
     "id": "nba-6",
@@ -361,7 +361,7 @@
     "status": "Healthy",
     "returnDate": null,
     "fantasyImpact": "Low",
-    "lastUpdated": "2025-01-13T10:00:00Z"
+    "lastUpdated": "2026-01-13T10:00:00Z"
   },
   {
     "id": "nba-7",
@@ -375,7 +375,7 @@
     "status": "Questionable",
     "returnDate": null,
     "fantasyImpact": "High",
-    "lastUpdated": "2025-01-13T10:00:00Z"
+    "lastUpdated": "2026-01-13T10:00:00Z"
   },
   {
     "id": "nba-8",
@@ -389,7 +389,7 @@
     "status": "Healthy",
     "returnDate": null,
     "fantasyImpact": "Low",
-    "lastUpdated": "2025-01-13T10:00:00Z"
+    "lastUpdated": "2026-01-13T10:00:00Z"
   },
   {
     "id": "nba-9",
@@ -401,9 +401,9 @@
     "position": "PG",
     "injury": "Achilles",
     "status": "Out",
-    "returnDate": "2025-03-01",
+    "returnDate": "2026-03-01",
     "fantasyImpact": "High",
-    "lastUpdated": "2025-01-13T10:00:00Z"
+    "lastUpdated": "2026-01-13T10:00:00Z"
   },
   {
     "id": "nba-10",
@@ -417,7 +417,7 @@
     "status": "Day-to-Day",
     "returnDate": null,
     "fantasyImpact": "High",
-    "lastUpdated": "2025-01-13T10:00:00Z"
+    "lastUpdated": "2026-01-13T10:00:00Z"
   },
   {
     "id": "nba-11",
@@ -429,9 +429,9 @@
     "position": "SF",
     "injury": "Knee",
     "status": "Out",
-    "returnDate": "2025-04-01",
+    "returnDate": "2026-04-01",
     "fantasyImpact": "High",
-    "lastUpdated": "2025-01-13T10:00:00Z"
+    "lastUpdated": "2026-01-13T10:00:00Z"
   },
   {
     "id": "nba-12",
@@ -445,7 +445,7 @@
     "status": "Questionable",
     "returnDate": null,
     "fantasyImpact": "Medium",
-    "lastUpdated": "2025-01-13T10:00:00Z"
+    "lastUpdated": "2026-01-13T10:00:00Z"
   },
   {
     "id": "nba-13",
@@ -459,7 +459,7 @@
     "status": "Healthy",
     "returnDate": null,
     "fantasyImpact": "Low",
-    "lastUpdated": "2025-01-13T10:00:00Z"
+    "lastUpdated": "2026-01-13T10:00:00Z"
   },
   {
     "id": "nba-14",
@@ -473,7 +473,7 @@
     "status": "Day-to-Day",
     "returnDate": null,
     "fantasyImpact": "High",
-    "lastUpdated": "2025-01-13T10:00:00Z"
+    "lastUpdated": "2026-01-13T10:00:00Z"
   },
   {
     "id": "nba-15",
@@ -487,7 +487,7 @@
     "status": "Questionable",
     "returnDate": null,
     "fantasyImpact": "High",
-    "lastUpdated": "2025-01-13T10:00:00Z"
+    "lastUpdated": "2026-01-13T10:00:00Z"
   },
   {
     "id": "nba-16",
@@ -501,7 +501,7 @@
     "status": "Healthy",
     "returnDate": null,
     "fantasyImpact": "Low",
-    "lastUpdated": "2025-01-13T10:00:00Z"
+    "lastUpdated": "2026-01-13T10:00:00Z"
   },
   {
     "id": "nba-17",
@@ -513,9 +513,9 @@
     "position": "PG",
     "injury": "Shoulder",
     "status": "Out",
-    "returnDate": "2025-02-01",
+    "returnDate": "2026-02-01",
     "fantasyImpact": "High",
-    "lastUpdated": "2025-01-13T10:00:00Z"
+    "lastUpdated": "2026-01-13T10:00:00Z"
   },
   {
     "id": "nba-18",
@@ -527,9 +527,9 @@
     "position": "PF",
     "injury": "Hamstring",
     "status": "Out",
-    "returnDate": "2025-03-15",
+    "returnDate": "2026-03-15",
     "fantasyImpact": "High",
-    "lastUpdated": "2025-01-13T10:00:00Z"
+    "lastUpdated": "2026-01-13T10:00:00Z"
   },
   {
     "id": "nba-19",
@@ -543,7 +543,7 @@
     "status": "Healthy",
     "returnDate": null,
     "fantasyImpact": "Low",
-    "lastUpdated": "2025-01-13T10:00:00Z"
+    "lastUpdated": "2026-01-13T10:00:00Z"
   },
   {
     "id": "nba-20",
@@ -557,7 +557,7 @@
     "status": "Probable",
     "returnDate": null,
     "fantasyImpact": "Medium",
-    "lastUpdated": "2025-01-13T10:00:00Z"
+    "lastUpdated": "2026-01-13T10:00:00Z"
   },
   {
     "id": "nba-21",
@@ -571,7 +571,7 @@
     "status": "Healthy",
     "returnDate": null,
     "fantasyImpact": "Low",
-    "lastUpdated": "2025-01-13T10:00:00Z"
+    "lastUpdated": "2026-01-13T10:00:00Z"
   },
   {
     "id": "nba-22",
@@ -585,7 +585,7 @@
     "status": "Healthy",
     "returnDate": null,
     "fantasyImpact": "Low",
-    "lastUpdated": "2025-01-13T10:00:00Z"
+    "lastUpdated": "2026-01-13T10:00:00Z"
   },
   {
     "id": "nba-23",
@@ -599,7 +599,7 @@
     "status": "Questionable",
     "returnDate": null,
     "fantasyImpact": "High",
-    "lastUpdated": "2025-01-13T10:00:00Z"
+    "lastUpdated": "2026-01-13T10:00:00Z"
   },
   {
     "id": "nba-24",
@@ -613,7 +613,7 @@
     "status": "Day-to-Day",
     "returnDate": null,
     "fantasyImpact": "Medium",
-    "lastUpdated": "2025-01-13T10:00:00Z"
+    "lastUpdated": "2026-01-13T10:00:00Z"
   },
   {
     "id": "nba-25",
@@ -625,9 +625,9 @@
     "position": "C",
     "injury": "Ankle",
     "status": "Out",
-    "returnDate": "2025-02-28",
+    "returnDate": "2026-02-28",
     "fantasyImpact": "Medium",
-    "lastUpdated": "2025-01-13T10:00:00Z"
+    "lastUpdated": "2026-01-13T10:00:00Z"
   },
   {
     "id": "mlb-1",
@@ -641,7 +641,7 @@
     "status": "Healthy",
     "returnDate": null,
     "fantasyImpact": "Low",
-    "lastUpdated": "2025-01-13T10:00:00Z"
+    "lastUpdated": "2026-01-13T10:00:00Z"
   },
   {
     "id": "mlb-2",
@@ -655,7 +655,7 @@
     "status": "Day-to-Day",
     "returnDate": null,
     "fantasyImpact": "High",
-    "lastUpdated": "2025-01-13T10:00:00Z"
+    "lastUpdated": "2026-01-13T10:00:00Z"
   },
   {
     "id": "mlb-3",
@@ -669,7 +669,7 @@
     "status": "Healthy",
     "returnDate": null,
     "fantasyImpact": "Low",
-    "lastUpdated": "2025-01-13T10:00:00Z"
+    "lastUpdated": "2026-01-13T10:00:00Z"
   },
   {
     "id": "mlb-4",
@@ -681,9 +681,9 @@
     "position": "SS",
     "injury": "Wrist",
     "status": "Out",
-    "returnDate": "2025-05-01",
+    "returnDate": "2026-05-01",
     "fantasyImpact": "High",
-    "lastUpdated": "2025-01-13T10:00:00Z"
+    "lastUpdated": "2026-01-13T10:00:00Z"
   },
   {
     "id": "mlb-5",
@@ -697,7 +697,7 @@
     "status": "Healthy",
     "returnDate": null,
     "fantasyImpact": "Low",
-    "lastUpdated": "2025-01-13T10:00:00Z"
+    "lastUpdated": "2026-01-13T10:00:00Z"
   },
   {
     "id": "mlb-6",
@@ -709,9 +709,9 @@
     "position": "SP",
     "injury": "Elbow",
     "status": "Out",
-    "returnDate": "2025-06-01",
+    "returnDate": "2026-06-01",
     "fantasyImpact": "High",
-    "lastUpdated": "2025-01-13T10:00:00Z"
+    "lastUpdated": "2026-01-13T10:00:00Z"
   },
   {
     "id": "mlb-7",
@@ -723,9 +723,9 @@
     "position": "SP",
     "injury": "UCL",
     "status": "Out",
-    "returnDate": "2025-07-01",
+    "returnDate": "2026-07-01",
     "fantasyImpact": "High",
-    "lastUpdated": "2025-01-13T10:00:00Z"
+    "lastUpdated": "2026-01-13T10:00:00Z"
   },
   {
     "id": "mlb-8",
@@ -737,9 +737,9 @@
     "position": "RF",
     "injury": "ACL",
     "status": "Out",
-    "returnDate": "2025-05-15",
+    "returnDate": "2026-05-15",
     "fantasyImpact": "High",
-    "lastUpdated": "2025-01-13T10:00:00Z"
+    "lastUpdated": "2026-01-13T10:00:00Z"
   },
   {
     "id": "mlb-9",
@@ -753,7 +753,7 @@
     "status": "Healthy",
     "returnDate": null,
     "fantasyImpact": "Low",
-    "lastUpdated": "2025-01-13T10:00:00Z"
+    "lastUpdated": "2026-01-13T10:00:00Z"
   },
   {
     "id": "mlb-10",
@@ -767,7 +767,7 @@
     "status": "Questionable",
     "returnDate": null,
     "fantasyImpact": "High",
-    "lastUpdated": "2025-01-13T10:00:00Z"
+    "lastUpdated": "2026-01-13T10:00:00Z"
   },
   {
     "id": "mlb-11",
@@ -781,7 +781,7 @@
     "status": "Day-to-Day",
     "returnDate": null,
     "fantasyImpact": "Medium",
-    "lastUpdated": "2025-01-13T10:00:00Z"
+    "lastUpdated": "2026-01-13T10:00:00Z"
   },
   {
     "id": "mlb-12",
@@ -795,7 +795,7 @@
     "status": "Healthy",
     "returnDate": null,
     "fantasyImpact": "Low",
-    "lastUpdated": "2025-01-13T10:00:00Z"
+    "lastUpdated": "2026-01-13T10:00:00Z"
   },
   {
     "id": "mlb-13",
@@ -807,9 +807,9 @@
     "position": "SP",
     "injury": "Elbow",
     "status": "Out",
-    "returnDate": "2025-07-01",
+    "returnDate": "2026-07-01",
     "fantasyImpact": "High",
-    "lastUpdated": "2025-01-13T10:00:00Z"
+    "lastUpdated": "2026-01-13T10:00:00Z"
   },
   {
     "id": "mlb-14",
@@ -823,7 +823,7 @@
     "status": "Healthy",
     "returnDate": null,
     "fantasyImpact": "Low",
-    "lastUpdated": "2025-01-13T10:00:00Z"
+    "lastUpdated": "2026-01-13T10:00:00Z"
   },
   {
     "id": "mlb-15",
@@ -837,7 +837,7 @@
     "status": "Healthy",
     "returnDate": null,
     "fantasyImpact": "Low",
-    "lastUpdated": "2025-01-13T10:00:00Z"
+    "lastUpdated": "2026-01-13T10:00:00Z"
   },
   {
     "id": "mlb-16",
@@ -851,7 +851,7 @@
     "status": "Probable",
     "returnDate": null,
     "fantasyImpact": "Medium",
-    "lastUpdated": "2025-01-13T10:00:00Z"
+    "lastUpdated": "2026-01-13T10:00:00Z"
   },
   {
     "id": "mlb-17",
@@ -865,7 +865,7 @@
     "status": "Questionable",
     "returnDate": null,
     "fantasyImpact": "High",
-    "lastUpdated": "2025-01-13T10:00:00Z"
+    "lastUpdated": "2026-01-13T10:00:00Z"
   },
   {
     "id": "mlb-18",
@@ -877,9 +877,9 @@
     "position": "CF",
     "injury": "Hip",
     "status": "Out",
-    "returnDate": "2025-06-01",
+    "returnDate": "2026-06-01",
     "fantasyImpact": "High",
-    "lastUpdated": "2025-01-13T10:00:00Z"
+    "lastUpdated": "2026-01-13T10:00:00Z"
   },
   {
     "id": "mlb-19",
@@ -893,7 +893,7 @@
     "status": "Healthy",
     "returnDate": null,
     "fantasyImpact": "Low",
-    "lastUpdated": "2025-01-13T10:00:00Z"
+    "lastUpdated": "2026-01-13T10:00:00Z"
   },
   {
     "id": "mlb-20",
@@ -907,7 +907,7 @@
     "status": "Healthy",
     "returnDate": null,
     "fantasyImpact": "Low",
-    "lastUpdated": "2025-01-13T10:00:00Z"
+    "lastUpdated": "2026-01-13T10:00:00Z"
   },
   {
     "id": "nhl-1",
@@ -921,7 +921,7 @@
     "status": "Healthy",
     "returnDate": null,
     "fantasyImpact": "Low",
-    "lastUpdated": "2025-01-13T10:00:00Z"
+    "lastUpdated": "2026-01-13T10:00:00Z"
   },
   {
     "id": "nhl-2",
@@ -935,7 +935,7 @@
     "status": "Healthy",
     "returnDate": null,
     "fantasyImpact": "Low",
-    "lastUpdated": "2025-01-13T10:00:00Z"
+    "lastUpdated": "2026-01-13T10:00:00Z"
   },
   {
     "id": "nhl-3",
@@ -949,7 +949,7 @@
     "status": "Questionable",
     "returnDate": null,
     "fantasyImpact": "High",
-    "lastUpdated": "2025-01-13T10:00:00Z"
+    "lastUpdated": "2026-01-13T10:00:00Z"
   },
   {
     "id": "nhl-4",
@@ -963,7 +963,7 @@
     "status": "Day-to-Day",
     "returnDate": null,
     "fantasyImpact": "High",
-    "lastUpdated": "2025-01-13T10:00:00Z"
+    "lastUpdated": "2026-01-13T10:00:00Z"
   },
   {
     "id": "nhl-5",
@@ -975,9 +975,9 @@
     "position": "C",
     "injury": "Wrist",
     "status": "Out",
-    "returnDate": "2025-02-10",
+    "returnDate": "2026-02-10",
     "fantasyImpact": "High",
-    "lastUpdated": "2025-01-13T10:00:00Z"
+    "lastUpdated": "2026-01-13T10:00:00Z"
   },
   {
     "id": "nhl-6",
@@ -991,7 +991,7 @@
     "status": "Healthy",
     "returnDate": null,
     "fantasyImpact": "Low",
-    "lastUpdated": "2025-01-13T10:00:00Z"
+    "lastUpdated": "2026-01-13T10:00:00Z"
   },
   {
     "id": "nhl-7",
@@ -1005,7 +1005,7 @@
     "status": "Healthy",
     "returnDate": null,
     "fantasyImpact": "Low",
-    "lastUpdated": "2025-01-13T10:00:00Z"
+    "lastUpdated": "2026-01-13T10:00:00Z"
   },
   {
     "id": "nhl-8",
@@ -1019,7 +1019,7 @@
     "status": "Day-to-Day",
     "returnDate": null,
     "fantasyImpact": "High",
-    "lastUpdated": "2025-01-13T10:00:00Z"
+    "lastUpdated": "2026-01-13T10:00:00Z"
   },
   {
     "id": "nhl-9",
@@ -1033,7 +1033,7 @@
     "status": "Questionable",
     "returnDate": null,
     "fantasyImpact": "High",
-    "lastUpdated": "2025-01-13T10:00:00Z"
+    "lastUpdated": "2026-01-13T10:00:00Z"
   },
   {
     "id": "nhl-10",
@@ -1047,7 +1047,7 @@
     "status": "Healthy",
     "returnDate": null,
     "fantasyImpact": "Low",
-    "lastUpdated": "2025-01-13T10:00:00Z"
+    "lastUpdated": "2026-01-13T10:00:00Z"
   },
   {
     "id": "nhl-11",
@@ -1059,9 +1059,9 @@
     "position": "LW",
     "injury": "Shoulder",
     "status": "Out",
-    "returnDate": "2025-02-20",
+    "returnDate": "2026-02-20",
     "fantasyImpact": "High",
-    "lastUpdated": "2025-01-13T10:00:00Z"
+    "lastUpdated": "2026-01-13T10:00:00Z"
   },
   {
     "id": "nhl-12",
@@ -1075,7 +1075,7 @@
     "status": "Healthy",
     "returnDate": null,
     "fantasyImpact": "Low",
-    "lastUpdated": "2025-01-13T10:00:00Z"
+    "lastUpdated": "2026-01-13T10:00:00Z"
   },
   {
     "id": "nhl-13",
@@ -1089,7 +1089,7 @@
     "status": "Day-to-Day",
     "returnDate": null,
     "fantasyImpact": "Medium",
-    "lastUpdated": "2025-01-13T10:00:00Z"
+    "lastUpdated": "2026-01-13T10:00:00Z"
   },
   {
     "id": "nhl-14",
@@ -1103,7 +1103,7 @@
     "status": "Healthy",
     "returnDate": null,
     "fantasyImpact": "Low",
-    "lastUpdated": "2025-01-13T10:00:00Z"
+    "lastUpdated": "2026-01-13T10:00:00Z"
   },
   {
     "id": "nhl-15",
@@ -1117,6 +1117,6 @@
     "status": "Probable",
     "returnDate": null,
     "fantasyImpact": "Medium",
-    "lastUpdated": "2025-01-13T10:00:00Z"
+    "lastUpdated": "2026-01-13T10:00:00Z"
   }
 ]
